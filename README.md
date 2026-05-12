@@ -17,11 +17,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing **MS in Information Systems @ Northeastern University**
-- 🛠️ I build **end-to-end data workflows** — from messy raw data to polished dashboards
-- 🌐 Skilled in **Python**, **SQL**, **Power BI**, **Snowflake**, **Azure (ADF, Data Lakes)**, and **Databricks**
+- 🛠️ I build **end-to-end data workflows adn Agentic workflows** — from messy raw data to polished dashboards
+- 🌐 Skilled in **AI**, **Python**, **SQL**, **Power BI**, **Snowflake**, **Azure**, **ML**, and **Databricks**
 - 💬 I speak fluent SQL, Python, and occasionally Pandas 🐼
-- 🎯 Interested in **Data Engineering**, **Analytics**, and **BI**
-- 📬 Reach out to collaborate or just talk data!
+- 🎯 Interested in **AI Engineering**, **Data Engineering**, **Analytics**, and **BI**
+- 📬 Reach out to collaborate or just talk data or AGI🙃!
 
 ---
 
@@ -32,7 +32,7 @@ Languages     →  Python, SQL, R, Java, C
 BI Tools      →  Power BI (DAX), Tableau, ER Studio, Excel
 Cloud & Infra →  Azure (Fabric, Data Lake), Google Cloud (Big Data, BigQuery, APIs), Databricks, Snowflake, Docker
 Big Data & Tools → Hadoop, Apache PySpark, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Git, Linux
-Data Skills   →  ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Data Modeling, Machine Learning, AI
+Data Skills   →  AI, ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Data Modeling, Machine Learning
 ```
 ### 🛠 Tech Stack
 
