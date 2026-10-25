@@ -44,21 +44,35 @@ Agent orchestration, cloud data pipelines, media processing, and a grocery assis
 
 </details>
 
-## From inputs to useful software
+## Inside the video pipeline
 
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/profile/workflow-mobile.svg">
-  <img src="assets/profile/workflow.svg" width="100%" alt="My engineering workflow: ingest files and events, structure schemas and state, reason with models and tools, then deliver APIs and interfaces. Validate, test, trace, and iterate across the workflow.">
-</picture>
+A real interface for reviewing how a source video will be cropped before rendering captioned clips.
 
-<p align="center"><sub>Use AI where it helps. Keep business rules explicit. Make decisions inspectable.</sub></p>
+<p align="center">
+  <a href="https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline#web-workflow"><img src="assets/profile/video-crop-ui.png" width="700" alt="Actual video pipeline crop editor: aspect-ratio tabs, highlighted source region, portrait output preview, and zoom and position controls. Cropped from the project's documentation screenshot."></a><br>
+  <sub>Crop editor · <a href="https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/blob/main/docs/quickcrop-modal.png">Screenshot from project documentation</a></sub>
+</p>
 
-## Tools I build with
+The web UI and CLI share the same pipeline. Clip selections are validated before rendering, and failed GPU encodes fall back to CPU processing.
+
+[Explore the implementation](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline#tech-stack-and-architecture) · [Tests](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/tree/main/tests) · [Benchmark procedure](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/blob/main/BENCHMARKS.md)
+
+## Core stack
 
 <picture>
   <source media="(max-width: 640px)" srcset="assets/profile/toolkit-mobile.svg">
-  <img src="assets/profile/toolkit.svg" width="100%" alt="36 tools across six groups. Languages and interfaces: Python, TypeScript, JavaScript, React, FastAPI, SQL. AI and agents: Claude, Ollama, MCP, LangChain, LangGraph, Chroma. Data and cloud: Airflow, Snowflake, Databricks, Azure, AWS S3, PySpark. Analytics and BI: pandas, NumPy, scikit-learn, Matplotlib, Tableau, Power BI. Testing and delivery: Docker, Git, GitHub, pytest, Playwright, Linux. Automation and media: FFmpeg, whisper.cpp, Telegram, Notion, Bash, VS Code.">
+  <img src="assets/profile/toolkit.svg" width="100%" alt="Core stack. Build: Python, TypeScript, React, FastAPI. AI and agents: Claude, Ollama, LangGraph, MCP. Data: SQL, Airflow, Snowflake, AWS S3. Ship and test: Azure, Docker, Git, pytest.">
 </picture>
+
+<details>
+  <summary><strong>More tools I work with</strong></summary>
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/profile/toolkit-more-mobile.svg">
+  <img src="assets/profile/toolkit-more.svg" width="100%" alt="Additional tools: JavaScript, LangChain, Chroma, Databricks, PySpark, pandas, NumPy, scikit-learn, Matplotlib, Tableau, Power BI, GitHub, Playwright, Linux, FFmpeg, whisper.cpp, Telegram, Notion, Bash, VS Code.">
+</picture>
+
+</details>
 
 <details>
   <summary><strong>A little more about my background</strong></summary>
@@ -71,8 +85,4 @@ I care about the parts around the model call: the data flow, state, validation, 
 
 </details>
 
-<br>
-
-<p align="center">
-  <a href="https://je-sai-kailash-pulipati.framer.website"><img src="assets/profile/connect.svg" width="520" alt="Let's build something useful. Explore my portfolio and get in touch."></a>
-</p>
+[More projects and experience →](https://je-sai-kailash-pulipati.framer.website)
