@@ -1,119 +1,87 @@
-<h1 align="center">Hey There👋!...</h1>
+<div align="center">
 
-![Github Homepage Banner](https://github.com/user-attachments/assets/fd234cc1-e69c-4d79-ba85-35fa760dadd2)
+<h1>Je Sai Kailash Pulipati</h1>
 
+<p><strong>AI Systems &amp; Data Engineering</strong></p>
 
-<h3 align="center">
-  <span style=color:EFEEEA;>🔍 Data Whisperer | 🔧 ETL Engineer in the Making | 📊 BI Storyteller | 👨‍💻 Data Analyst</span>
-</h3>
+<p>AI applications. Automated data pipelines. Practical software.</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FE7743&center=true&vCenter=true&width=450&lines=Turning+Data+into+Decisions;Open+to+Internships+/+Co-Ops%F0%9F%9A%80" alt="Typing SVG" />
+<p>
+  <a href="https://je-sai-kailash-pulipati.framer.website">Portfolio</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/je-pulipati/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:pulipati.j@northeastern.edu">Email</a>
 </p>
-                               
-                                    
----
 
-### 👨‍💻 About Me
-
-- 🎓 Currently pursuing **MS in Information Systems @ Northeastern University**
-- 🛠️ I build **end-to-end data workflows adn Agentic workflows** — from messy raw data to polished dashboards
-- 🌐 Skilled in **AI**, **Python**, **SQL**, **Power BI**, **Snowflake**, **Azure**, **ML**, and **Databricks**
-- 💬 I speak fluent SQL, Python, and occasionally Pandas 🐼
-- 🎯 Interested in **AI Engineering**, **Data Engineering**, **Analytics**, and **BI**
-- 📬 Reach out to collaborate or just talk data or AGI🙃!
+</div>
 
 ---
 
-### ⚙️ Tech Stack I Work With
+I build AI-powered applications, data pipelines, and automation tools that turn complex workflows into usable software. I work across **Python, TypeScript, and SQL**, connecting models, data, APIs, and interfaces.
 
-```python
-Languages     →  Python, SQL, R, Java, C
-BI Tools      →  Power BI (DAX), Tableau, ER Studio, Excel
-Cloud & Infra →  Azure (Fabric, Data Lake), Google Cloud (Big Data, BigQuery, APIs), Databricks, Snowflake, Docker
-Big Data & Tools → Hadoop, Apache PySpark, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Git, Linux
-Data Skills   →  AI, ETL Pipelines, KPI Dashboards, Data Cleaning & Profiling, Data Modeling, Machine Learning
-```
-### 🛠 Tech Stack
+My background includes **data engineering at Boviet Solar Technologies** and **data analysis at Align Associates**. My projects explore agent orchestration, data infrastructure, and practical applications of AI.
 
-#### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
+## Selected work
 
-#### 🧠 Data Analytics & Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/ETL-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Modeling-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI%20Dashboards-F9AB00?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data%20Profiling-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20Management-563D7C?style=for-the-badge&logo=trello&logoColor=white"/>
-</p>
+### [TripSync AI](https://github.com/pjsk02/TripSync-AI)
+**Multi-agent planning · Full-stack application development**
 
-#### 📊 BI & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ER--Studio-FF6F61?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VBA-185ABD?style=for-the-badge&logo=visualbasic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX%20Design-0D1117?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+A group travel planner that brings individual preferences, shared budgets, and scheduling constraints into one itinerary.
 
-#### ☁️ Big Data & Cloud Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PySpark-E34A6F?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+The engineering focus: sequential agent orchestration, deterministic budget and schedule checks, and tracing that makes agent decisions inspectable.
 
-#### 📚 Data Libraries & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-</p>
+`TypeScript` `React` `tRPC` `Claude` `W&B Weave`
 
-#### 🛡 Certifications & Other Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+[Explore the agent architecture →](https://github.com/pjsk02/TripSync-AI#multi-agent-architecture)
+
+### [Automated Multi-Stage Data Pipeline](https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform)
+**Data orchestration · Cloud warehousing · Analytics**
+
+A platform for ingesting SEC financial filings, staging data in S3, loading Snowflake, and serving the results through an API and analytics dashboard.
+
+The engineering focus: comparing raw, JSON, and denormalized storage approaches on the same source data, with orchestration separated from the data-access layer.
+
+`Python` `Airflow` `AWS S3` `Snowflake` `FastAPI` `Streamlit`
+
+[Explore the pipeline design →](https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform#architecture)
+
+### [Video Transcription & Rendering Pipeline](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline)
+**Applied AI · Media processing · Developer tooling**
+
+A local application that turns long videos into captioned clips in three aspect ratios, with both a web interface and a CLI.
+
+The engineering focus: a shared processing pipeline, file-backed job state, validated clip selection, and hardware-encoder fallback. Transcription runs locally; clip selection sends transcript text to Claude.
+
+`Python` `FastAPI` `whisper.cpp` `ffmpeg` `pytest` `Playwright`
+
+[Explore the pipeline →](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline#pipeline) · [Browse the tests →](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/tree/main/tests)
+
+### [MomCart](https://github.com/pjsk02/MomCart)
+**Workflow automation · Conversational interfaces**
+
+A Telegram grocery assistant that turns messages and voice notes into a persistent cart and a shopkeeper's packing checklist.
+
+The engineering focus: structured item extraction, catalog matching, persistent order state, and status updates through Notion MCP.
+
+`Python` `Ollama` `Chroma` `Telegram` `MCP`
+
+[Explore the workflow →](https://github.com/pjsk02/MomCart#how-it-works)
+
+## How I approach engineering
+
+- **Separate AI from business rules.** Use models for suggestions and extraction, with explicit validation and constraints around their outputs.
+- **Think beyond the model call.** Design the data flow, state, API, interface, and final output as parts of the same system.
+- **Make behavior inspectable.** Use tests, tracing, and architecture documentation to explain decisions and investigate failures.
+
+## Working stack
+
+| Area | Tools |
+| :--- | :--- |
+| AI & application development | Python, TypeScript, React, FastAPI, LLM APIs, MCP |
+| Data & analytics | SQL, Airflow, Snowflake, AWS S3, Power BI |
+| Development & verification | Docker, Git, pytest, Playwright |
 
 ---
-### 🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/je-pulipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> 
-<a href="mailto:pulipati.j@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a> 
-<a href="https://je-sai-kailash-pulipati.framer.website" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-black?logo=framer&logoColor=white"></a> </p>
 
-
----
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjsk02&show_icons=true&theme=radical)
-
----
-<p align="center">
-Thank You for visiting my page!!!  
-</p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/bcb80113-8397-45e6-bb03-6a2bc4eaf122" width="150">
-</p>
-
----
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=pjsk02&title=Visitors&color=29B5E8initCount=1891)
+Interested in collaborating on an AI application or data system? [Get in touch](mailto:pulipati.j@northeastern.edu).
