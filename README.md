@@ -1,87 +1,78 @@
-<div align="center">
-
-<h1>Je Sai Kailash Pulipati</h1>
-
-<p><strong>AI Systems &amp; Data Engineering</strong></p>
-
-<p>AI applications. Automated data pipelines. Practical software.</p>
-
-<p>
-  <a href="https://je-sai-kailash-pulipati.framer.website">Portfolio</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/je-pulipati/">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
-  <a href="mailto:pulipati.j@northeastern.edu">Email</a>
+<p align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="assets/profile/hero-mobile.svg">
+    <img src="assets/profile/hero.svg" width="100%" alt="Je Sai Kailash Pulipati — AI systems. Data platforms. Built end to end. Python, TypeScript, and SQL.">
+  </picture>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://je-sai-kailash-pulipati.framer.website"><img src="assets/profile/link-portfolio.svg" width="104" alt="Visit my portfolio"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/je-pulipati/"><img src="assets/profile/link-linkedin.svg" width="104" alt="Connect on LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:pulipati.j@northeastern.edu"><img src="assets/profile/link-email.svg" width="104" alt="Email Je"></a>
+</p>
 
----
+<p align="center">
+  I connect <strong>AI, data, and application development</strong> to solve practical problems.<br>
+  Previously: <strong>Data Engineer · Boviet Solar</strong> &nbsp; / &nbsp; <strong>Data Analyst · Align Associates</strong>
+</p>
 
-I build AI-powered applications, data pipelines, and automation tools that turn complex workflows into usable software. I work across **Python, TypeScript, and SQL**, connecting models, data, APIs, and interfaces.
+## Selected builds
 
-My background includes **data engineering at Boviet Solar Technologies** and **data analysis at Align Associates**. My projects explore agent orchestration, data infrastructure, and practical applications of AI.
+Agent orchestration, cloud data pipelines, media processing, and a grocery assistant built around a real everyday workflow.
 
-## Selected work
+<p align="center">
+  <a href="https://github.com/pjsk02/TripSync-AI"><img src="assets/profile/project-tripsync.svg" width="400" alt="TripSync AI — multi-agent travel planning with budget constraints and decision tracing. Built with TypeScript, React, and Claude. Explore the repository."></a>
+  <a href="https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform"><img src="assets/profile/project-data.svg" width="400" alt="SEC Data Platform — Airflow orchestration, S3 staging, and Snowflake warehousing, comparing three storage approaches. Explore the repository."></a>
+</p>
 
-### [TripSync AI](https://github.com/pjsk02/TripSync-AI)
-**Multi-agent planning · Full-stack application development**
+<p align="center">
+  <a href="https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline"><img src="assets/profile/project-video.svg" width="400" alt="Video to Clips — local transcription, AI clip selection, captions, and three output formats using Python, whisper.cpp, and ffmpeg. Explore the repository."></a>
+  <a href="https://github.com/pjsk02/MomCart"><img src="assets/profile/project-momcart.svg" width="400" alt="MomCart — Telegram voice notes and messages become a persistent grocery cart and shopkeeper packing list using Python, Ollama, and Notion MCP. Explore the repository."></a>
+</p>
 
-A group travel planner that brings individual preferences, shared budgets, and scheduling constraints into one itinerary.
+<details>
+  <summary><strong>Under the hood — architecture, tradeoffs, and code</strong></summary>
 
-The engineering focus: sequential agent orchestration, deterministic budget and schedule checks, and tracing that makes agent decisions inspectable.
-
-`TypeScript` `React` `tRPC` `Claude` `W&B Weave`
-
-[Explore the agent architecture →](https://github.com/pjsk02/TripSync-AI#multi-agent-architecture)
-
-### [Automated Multi-Stage Data Pipeline](https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform)
-**Data orchestration · Cloud warehousing · Analytics**
-
-A platform for ingesting SEC financial filings, staging data in S3, loading Snowflake, and serving the results through an API and analytics dashboard.
-
-The engineering focus: comparing raw, JSON, and denormalized storage approaches on the same source data, with orchestration separated from the data-access layer.
-
-`Python` `Airflow` `AWS S3` `Snowflake` `FastAPI` `Streamlit`
-
-[Explore the pipeline design →](https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform#architecture)
-
-### [Video Transcription & Rendering Pipeline](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline)
-**Applied AI · Media processing · Developer tooling**
-
-A local application that turns long videos into captioned clips in three aspect ratios, with both a web interface and a CLI.
-
-The engineering focus: a shared processing pipeline, file-backed job state, validated clip selection, and hardware-encoder fallback. Transcription runs locally; clip selection sends transcript text to Claude.
-
-`Python` `FastAPI` `whisper.cpp` `ffmpeg` `pytest` `Playwright`
-
-[Explore the pipeline →](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline#pipeline) · [Browse the tests →](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/tree/main/tests)
-
-### [MomCart](https://github.com/pjsk02/MomCart)
-**Workflow automation · Conversational interfaces**
-
-A Telegram grocery assistant that turns messages and voice notes into a persistent cart and a shopkeeper's packing checklist.
-
-The engineering focus: structured item extraction, catalog matching, persistent order state, and status updates through Notion MCP.
-
-`Python` `Ollama` `Chroma` `Telegram` `MCP`
-
-[Explore the workflow →](https://github.com/pjsk02/MomCart#how-it-works)
-
-## How I approach engineering
-
-- **Separate AI from business rules.** Use models for suggestions and extraction, with explicit validation and constraints around their outputs.
-- **Think beyond the model call.** Design the data flow, state, API, interface, and final output as parts of the same system.
-- **Make behavior inspectable.** Use tests, tracing, and architecture documentation to explain decisions and investigate failures.
-
-## Working stack
-
-| Area | Tools |
+| Project | What to look at |
 | :--- | :--- |
-| AI & application development | Python, TypeScript, React, FastAPI, LLM APIs, MCP |
-| Data & analytics | SQL, Airflow, Snowflake, AWS S3, Power BI |
-| Development & verification | Docker, Git, pytest, Playwright |
+| [TripSync AI](https://github.com/pjsk02/TripSync-AI#multi-agent-architecture) | Sequential agent orchestration, deterministic budget and schedule checks, and traceable decisions. |
+| [SEC Data Platform](https://github.com/pjsk02/Automated-Multi-Stage-Data-Pipeline-Platform#architecture) | Raw, JSON, and denormalized storage models; S3 staging; Snowflake loading; API and analytics access. |
+| [Video → Clips](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline#pipeline) | A shared web/CLI pipeline, file-backed jobs, validated selection, hardware-encoder fallback, and [tests](https://github.com/pjsk02/Video-Transcription-and-Rendering-Pipeline/tree/main/tests). Transcription is local; clip selection sends transcript text to Claude. |
+| [MomCart](https://github.com/pjsk02/MomCart#how-it-works) | Structured item extraction, catalog matching, persistent carts, and packing updates through Notion MCP. |
 
----
+</details>
 
-Interested in collaborating on an AI application or data system? [Get in touch](mailto:pulipati.j@northeastern.edu).
+## From inputs to useful software
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/profile/workflow-mobile.svg">
+  <img src="assets/profile/workflow.svg" width="100%" alt="My engineering workflow: ingest files and events, structure schemas and state, reason with models and tools, then deliver APIs and interfaces. Validate, test, trace, and iterate across the workflow.">
+</picture>
+
+<p align="center"><sub>Use AI where it helps. Keep business rules explicit. Make decisions inspectable.</sub></p>
+
+## Tools I build with
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/profile/toolkit-mobile.svg">
+  <img src="assets/profile/toolkit.svg" width="100%" alt="Build: Python, TypeScript, React, FastAPI. Reason: Claude, Ollama, MCP. Data: SQL, Airflow, Snowflake, AWS S3. Verify: Docker, Git, pytest, Playwright.">
+</picture>
+
+<details>
+  <summary><strong>A little more about my background</strong></summary>
+
+My background includes data engineering at **Boviet Solar Technologies** and data analysis at **Align Associates**. My projects combine that data foundation with agent orchestration, full-stack development, and automation.
+
+I care about the parts around the model call: the data flow, state, validation, interface, and what happens when something fails. I use tests, tracing, and architecture documentation to make those decisions easier to inspect.
+
+[More experience and projects on my portfolio](https://je-sai-kailash-pulipati.framer.website).
+
+</details>
+
+<br>
+
+<p align="center">
+  <a href="https://je-sai-kailash-pulipati.framer.website"><img src="assets/profile/connect.svg" width="520" alt="Let's build something useful. Explore my portfolio and get in touch."></a>
+</p>
