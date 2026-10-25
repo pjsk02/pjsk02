@@ -57,7 +57,7 @@ Agent orchestration, cloud data pipelines, media processing, and a grocery assis
 
 <picture>
   <source media="(max-width: 640px)" srcset="assets/profile/toolkit-mobile.svg">
-  <img src="assets/profile/toolkit.svg" width="100%" alt="Build: Python, TypeScript, React, FastAPI. Reason: Claude, Ollama, MCP. Data: SQL, Airflow, Snowflake, AWS S3. Verify: Docker, Git, pytest, Playwright.">
+  <img src="assets/profile/toolkit.svg" width="100%" alt="36 tools across six groups. Languages and interfaces: Python, TypeScript, JavaScript, React, FastAPI, SQL. AI and agents: Claude, Ollama, MCP, LangChain, LangGraph, Chroma. Data and cloud: Airflow, Snowflake, Databricks, Azure, AWS S3, PySpark. Analytics and BI: pandas, NumPy, scikit-learn, Matplotlib, Tableau, Power BI. Testing and delivery: Docker, Git, GitHub, pytest, Playwright, Linux. Automation and media: FFmpeg, whisper.cpp, Telegram, Notion, Bash, VS Code.">
 </picture>
 
 <details>
